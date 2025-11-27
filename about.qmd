@@ -1,0 +1,17 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/edgar-zamora-01896b148/
+    - icon: github
+      text: Github
+      href: https://github.com/Edgar-Zamora
+---
+
+👋 I'm a Senior Technical Consultant for [Allovue](https://www.powerschool.com/solutions/resource-planning/) (A Powerschool company) where I extract, transform, and load K-12 data to allow our customers to make decisions about the direction of their district. Currently open to exploring other opportunities of employment so feel free to reach me.
+
+Outside of work am an avid gamer, sports fan (Kraken 🦑, Manchester City ⚽️, and New York Yankees ⚾️), and love spending time with my cats 🐈🐈‍⬛.
